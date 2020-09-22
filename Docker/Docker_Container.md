@@ -58,13 +58,7 @@ ubuntu / apple-kiwi-apple로 Linux 환경으로 접속
 Docker는 client(command)와 server(daemon)으로 이루어져 있고 서로 버전이 다를 수 있다.
 
 
-
-<div style="text-align: center;">
-    <img style="max-height:60%; max-width:60%;"
-         src="C:\Users\yeongyeon.kim\Desktop\client_server.PNG">
-</div>
-
-
+![client_server](../img/client_server.PNG)
 
 `docker run ubuntu:18.04`
 
