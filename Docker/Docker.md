@@ -104,7 +104,7 @@ Scale in/out 지원
 `hello world`
 
 docker run으로 실행되는 환경(위에선 busybox)을 바꿔주는 것.
-![client_server](.img/client_server.PNG)
+![client_server](../img/client_server.PNG)
 
 - 프로세스 격리. LXC
 - 계층화된 저장장치. AUFS
@@ -119,11 +119,7 @@ Rails Container - 프로비저닝이 완료
 배포 대상 - Docker Servers
 
 
-
-<div style="text-align: center;">
-    <img style="max-height:60%; max-width:60%;"
-         src="C:\Users\yeongyeon.kim\Desktop\Release.PNG">
-</div>
+![Release](../img/Release.PNG)
 
 개발자가 작성하고 push하면 ci 관리자가
 
