@@ -105,10 +105,7 @@ Scale in/out 지원
 
 docker run으로 실행되는 환경(위에선 busybox)을 바꿔주는 것.
 
-<div style="text-align: center;">
-    <img style="max-height:80%; max-width:80%;"
-         src="Docker/client_server.PNG">
-</div>
+<img src="Docker/client_server.PNG" width="90%"></img>
 
 - 프로세스 격리. LXC
 - 계층화된 저장장치. AUFS
