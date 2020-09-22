@@ -145,11 +145,9 @@ CMD bundle exec ruby app.rb -o 0.0.0.0`
 
 ---
 
-# Task 3. Python flask app 만들기
-
  `docker rmi $(docker images -q)` - 도커 이미지 전체 삭제
 
-# Task 4. Spring Boot + Multistage Build
+# Task 3. Spring Boot + Multistage Build
 
 스프링 부트 기본 샘플 코드 다운로드
 
@@ -196,7 +194,7 @@ CMD bundle exec ruby app.rb -o 0.0.0.0`
 
 `<?php phpinfo() ?>`
 
-![](C:\Users\yeongyeon.kim\Desktop\task5.PNG)
+![task5](../img/task5.PNG)
 
 **run.sh**
 
@@ -241,13 +239,13 @@ CMD bundle exec ruby app.rb -o 0.0.0.0`
 
 * 생성한 이미지를 도커 허브에 저장한다.
 
-![](C:\Users\yeongyeon.kim\Desktop\DockerHub.PNG)
+![DockerHub](../img/DockerHub.PNG)
 
 ---
 
 # Exam 1. Nginx를 이용한 정적 페이지 서버 만들기
 
-![](C:\Users\yeongyeon.kim\Desktop\Exam1.PNG)
+![Exam1](../img/Exam1.PNG)
 
 1. 먼저 도커파일을만든다
 
