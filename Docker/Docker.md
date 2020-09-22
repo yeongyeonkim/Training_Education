@@ -107,7 +107,7 @@ docker run으로 실행되는 환경(위에선 busybox)을 바꿔주는 것.
 
 <div style="text-align: center;">
     <img style="max-height:80%; max-width:80%;"
-         src="C:\Users\yeongyeon.kim\Desktop\Docker_Difference.PNG">
+         src="Docker/client_server.PNG">
 </div>
 
 - 프로세스 격리. LXC
