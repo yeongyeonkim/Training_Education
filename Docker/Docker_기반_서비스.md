@@ -245,7 +245,7 @@ http://IP:64001/ghost 접속 후 글을 작성
 
 # Exam 1. nginx 컨테이너 만들기
 
-![](C:\Users\yeongyeon.kim\Desktop\nginx.PNG)
+![nginx](../img/nginx.PNG)
 
 1. `docker run -p 50000:80 -d nginx:latest`
 
@@ -265,7 +265,7 @@ pwd - 현재 디렉토리
 
 
 
-![](C:\Users\yeongyeon.kim\Desktop\php.PNG)
+![php](../img/php.PNG)
 
 `mkdir php`
 
