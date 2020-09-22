@@ -119,7 +119,7 @@ Rails Container - 프로비저닝이 완료
 배포 대상 - Docker Servers
 
 
-![Release](../img/Release.PNG)
+![release](../img/release.PNG)
 
 개발자가 작성하고 push하면 ci 관리자가
 
@@ -131,7 +131,7 @@ docker file로 빌드.
 
 이미지를 가지고서 서버에 배포 (추후 배울 Kubernates가 서버에 배포를 도와주는 역할)
 
-
+.
 
 ### 서버 운영의 미래
 
