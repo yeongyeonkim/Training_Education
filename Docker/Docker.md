@@ -104,7 +104,7 @@ Scale in/out 지원
 `hello world`
 
 docker run으로 실행되는 환경(위에선 busybox)을 바꿔주는 것.
-![client_server](./img/client_server.PNG)
+![client_server](.img/client_server.PNG)
 
 - 프로세스 격리. LXC
 - 계층화된 저장장치. AUFS
