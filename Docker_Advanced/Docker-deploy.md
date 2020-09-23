@@ -175,4 +175,4 @@ dco up을 하면
 
 서비스들의 이미지들인 hello-world:v1 hello-world:v2 동시에 실행
 
-![](C:\Users\yeongyeon.kim\Desktop\exam2.PNG)
+![exam2](../img/exam2.PNG)
