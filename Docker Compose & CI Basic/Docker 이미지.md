@@ -186,26 +186,7 @@ CMD bundle exec ruby app.rb -o 0.0.0.0`
 
 ---
 
-# Task 4. Spring Boot + Multistage Build
-
-`$ curl https://start.spring.io/starter.zip -d dependencies=web,devtools \ -d bootVersion=2.1.9.RELEASE -o spring-boot-sample.zip $ sudo apt install unzip $ unzip spring-boot-sample.zip $ touch Dockerfile`
-
-**Dockerfile**
-
-`FROM adoptopenjdk/openjdk8:alpine `
-`COPY . /app `
-`WORKDIR /app `
-`RUN ./mvnw package `
-`CMD ["java","-Djava.security.egd=file:/dev/./urandom", "-jar","./target /demo-0.0.1-SNAPSHOT.jar"]`
-
-이미지 빌드하기
-
-`$ docker build -t springboot .`
-
-
----
-
-# Task 5. 환경변수
+# Task 4. 환경변수
 
 * php의 post_max_size 설정을 8M => 128M으로 변경
 
