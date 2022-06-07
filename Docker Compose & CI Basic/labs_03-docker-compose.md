@@ -1,5 +1,3 @@
-# http://bit.ly/44bits-docker-compose
-
 # Docker Compose 
 
 도커 컴포즈의 필요성을 이해하고 다양한 사용법 실습
